@@ -1,0 +1,2 @@
+Cannot write main method more than once with same signature
+Class name cannot start with number
